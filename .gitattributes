@@ -1,0 +1,12 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Force specific files to have Unix line endings
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Denote binary files
+*.png binary
+*.jpg binary
+*.pdf binary
